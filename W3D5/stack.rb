@@ -3,6 +3,7 @@ class Stack
 
     def initialize
         @array = []
+        self
     end
 
     def push(el)
